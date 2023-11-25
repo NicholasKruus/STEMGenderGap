@@ -4,9 +4,9 @@ STEMGenderGap.zip contains everything referred to below.
 Degree_Collection.R and STEM_Analysis.R located in the "Code" .zip file contain all of the necessary code. If you are using the raw data already collected from the NCES IPEDS, follow the instructions at the top of STEM_Analysis.R and run it.
 
 The appendix contains the list of universities and the degrees that were collected from the NCES lookup for each university.
-.
-.
-.
+
+
+
 IF you are not using the raw NCES IPEDS data. The programs' working directory (defined in the first few lines of each) will need to be updated to accommodate your computer. The working directory for each is unique and should be updated at the beginning of each program.
 
 For RealDegreeCollection to work with new data, there are a few stipulations:
